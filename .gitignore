@@ -94,3 +94,9 @@ data/
 
 # Git LFS placeholder (if using)
 # *.png filter=lfs diff=lfs merge=lfs -text
+
+# Large archive and binary files
+*.zip
+*.dll
+*.so
+frontend_flutter/build/
